@@ -1,0 +1,24 @@
+ONAC
+./Class_Pred_Probs/pred_meeting2.csv
+[ 0.00446479]
+./Class_Pred_Probs/pred_meeting5.csv
+[ 0.00446479]
+./Class_Pred_Probs/pred_meeting10.csv
+[ 0.00446479]
+./Class_Pred_Probs/pred_meeting20.csv
+[ 0.00446479]
+./Class_Pred_Probs/pred_meeting50.csv
+[ 0.00446479]
+
+Boulware
+./Class_Pred_Probs/pred_meeting2.csv
+[0.00079079]
+./Class_Pred_Probs/pred_meeting5.csv
+[0.00079079]
+./Class_Pred_Probs/pred_meeting10.csv
+[0.00079079]
+./Class_Pred_Probs/pred_meeting20.csv
+[0.00079079]
+./Class_Pred_Probs/pred_meeting50.csv
+[0.00079079]
+
